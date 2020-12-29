@@ -4,7 +4,7 @@
 # HAKKIMDA
 * **Zevk aldığım konular: video düzenlemeleri yapmak ve kod yazmak başka pek zevk aldığım konu yok gibi birşeydir.**
 * **Javascript ve TypeScript ile ugraşıp, bu işlere discord.js ile başlayıp sonra derinlerini merak ederek projeleri inceleyip belli bir seviyeye geldim.**
-* **Ögrenmek istediğim diller c, c#, c++, java'dır fakat mobilde c dillerini compile edebilmek biraz sıkıntı olduğu için java öğrenmeye çalışıyorum.**
+* **Ögrenmek istediğim diller c, c#, c++, java'dır Şu anda python öğreniyorum.**
 
 
 # Bana ulaşabileceğiniz yerler
