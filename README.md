@@ -1,6 +1,6 @@
 # Wioniqle.q 
-Hi there! I am Tuna. I am 16 years old. I am still learning new stuff in programming. I am a Kotlin/ node.js/Python/C# developer. Beside them, I am also interested in DevOps.
+Hi there! I'm Tuna, 16 years old. I'm still learning new stuff in programming. I'm a Kotlin/NodeJS/Python/C# Developer. Beside them, I am also interested in DevOps.
 
 # Contact
 * Email: wioniqle.q@gmail.com
-* Discord: ❃ wioniqle.q#4661 
+* Discord: wioniqle.q#4661
