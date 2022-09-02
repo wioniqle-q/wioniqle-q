@@ -1,5 +1,5 @@
 # Wioniqle.q 
-Nothing 
+JS,TS,C#,Java,MongoDB
 
 # Contact
 * Email: wioniqle.q@gmail.com
